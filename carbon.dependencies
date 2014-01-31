@@ -1,0 +1,20 @@
+[
+ {
+   "remote":      "cm",
+   "repository":  "CyanogenMod/android_device_oppo_apq8064-common",
+   "target_path": "device/oppo/apq8064-common",
+   "revision":    "cm-11.0"
+ },
+ {
+   "remote":      "cm",
+   "repository":  "CyanogenMod/android_kernel_oppo_n1",
+   "target_path": "kernel/oppo/n1",
+   "revision":     "cm-11.0"
+ },
+ {
+   "remote":      "tm",
+   "repository":  "proprietary_vendor_oppo",
+   "target_path": "vendor/oppo",
+   "revision":    "cm-11.0"
+ }
+]
